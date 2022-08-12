@@ -2,3 +2,6 @@ This is my txt file
 
 
 I am editing this file
+
+
+Changing the content in remote machine
